@@ -18,3 +18,4 @@ After making any changes do:
 1. Rebuild the ReferenceProjectVSIX project and get "ASP.Net WebAPI Application Project Template.vsix"
 1. "ASP.Net WebAPI Application Project Template.vsix" can be uploaded to VS Marketplace or installed in VS.
 1. Create a new release on GitHub
+2. Push release
